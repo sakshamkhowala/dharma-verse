@@ -1,0 +1,166 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "number": 1,
+      "textEnglish": "Krishna said: I will tell you again this supreme knowledge, knowing which the sages reach the highest perfection.",
+      "textHindi": "श्रीकृष्ण ने कहा: मैं तुम्हें फिर यह सर्वोच्च ज्ञान बताऊँगा, जिसे जानकर ऋषि लोग परम सिद्धि को प्राप्त होते हैं।"
+    },
+    {
+      "id": 2,
+      "number": 2,
+      "textEnglish": "Taking refuge in this knowledge and attaining unity with Me, they are not born again at creation nor destroyed at dissolution.",
+      "textHindi": "इस ज्ञान में स्थित होकर और मुझमें एकत्व पाने पर, वे न सृष्टि के समय जन्म लेते हैं और न प्रलय के समय नष्ट होते हैं।"
+    },
+    {
+      "id": 3,
+      "number": 3,
+      "textEnglish": "My material nature is the womb of all beings. I am the seed-giving father of all life.",
+      "textHindi": "मेरी प्रकृति सभी प्राणियों की जननी है, और मैं सभी जीवन का बीज देने वाला पिता हूँ।"
+    },
+    {
+      "id": 4,
+      "number": 4,
+      "textEnglish": "Whatever forms are born in any species, Nature is their mother and I am their father.",
+      "textHindi": "सभी प्रकार के जन्मों में, प्रकृति माता है और मैं पिता हूँ।"
+    },
+    {
+      "id": 5,
+      "number": 5,
+      "textEnglish": "Sattva, Rajas, and Tamas — the modes of nature — bind the soul to the body, O Arjuna.",
+      "textHindi": "सत्त्व, रज और तम — प्रकृति के गुण — आत्मा को शरीर से बाँधते हैं, हे अर्जुन।"
+    },
+    {
+      "id": 6,
+      "number": 6,
+      "textEnglish": "Sattva is pure and illuminating; it binds by attachment to happiness and knowledge.",
+      "textHindi": "सत्त्व शुद्ध और प्रकाशमान है; यह सुख और ज्ञान के आसक्ति द्वारा बाँधता है।"
+    },
+    {
+      "id": 7,
+      "number": 7,
+      "textEnglish": "Rajas is born of desire and attachment; it binds by attachment to action.",
+      "textHindi": "रजस इच्छा और आसक्ति से उत्पन्न होता है; यह कर्मों के प्रति आसक्ति द्वारा बाँधता है।"
+    },
+    {
+      "id": 8,
+      "number": 8,
+      "textEnglish": "Tamas is born of ignorance; it deludes all beings and binds by negligence and laziness.",
+      "textHindi": "तमस अज्ञान से उत्पन्न होता है; यह सभी प्राणियों को मोह में डालता है और आलस्य व प्रमाद से बाँधता है।"
+    },
+    {
+      "id": 9,
+      "number": 9,
+      "textEnglish": "Sattva attaches one to happiness; Rajas attaches to action; Tamas attaches to ignorance.",
+      "textHindi": "सत्त्व सुख से जोड़ता है; रज कर्म से जोड़ता है; तमस अज्ञान से जोड़ता है।"
+    },
+    {
+      "id": 10,
+      "number": 10,
+      "textEnglish": "Sometimes Sattva dominates Rajas and Tamas, sometimes Rajas dominates, sometimes Tamas — they constantly battle within.",
+      "textHindi": "कभी सत्त्व रज और तम पर विजय पाता है, कभी रज दोनों पर, कभी तम — ये तीनों अंदर निरंतर संघर्ष करते हैं।"
+    },
+    {
+      "id": 11,
+      "number": 11,
+      "textEnglish": "When the light of wisdom shines through all senses, Sattva is prevailing.",
+      "textHindi": "जब ज्ञान का प्रकाश सभी इंद्रियों में फैल जाता है, तब सत्त्व का प्रभाव होता है।"
+    },
+    {
+      "id": 12,
+      "number": 12,
+      "textEnglish": "When greed, restlessness, and intense activity appear, know that Rajas is dominant.",
+      "textHindi": "जब लोभ, बेचैनी और अत्यधिक गतिविधि दिखाई दे, तो समझो कि रजस का प्रभाव है।"
+    },
+    {
+      "id": 13,
+      "number": 13,
+      "textEnglish": "When ignorance, laziness, and confusion arise, Tamas is prevailing.",
+      "textHindi": "जब अज्ञान, आलस्य और भ्रम उत्पन्न हों, तो समझो कि तमस का प्रभाव है।"
+    },
+    {
+      "id": 14,
+      "number": 14,
+      "textEnglish": "If one dies while in Sattva, he reaches the pure worlds of the wise.",
+      "textHindi": "सत्त्व की अवस्था में मृत्यु होने पर व्यक्ति ज्ञानी और शुद्ध लोकों को प्राप्त होता है।"
+    },
+    {
+      "id": 15,
+      "number": 15,
+      "textEnglish": "If one dies in Rajas, he is reborn among those attached to action; if one dies in Tamas, he is born among the ignorant.",
+      "textHindi": "रजस में मरने वाला कर्मशील लोगों में जन्म लेता है; तमस में मरने वाला अज्ञानियों में जन्म लेता है।"
+    },
+    {
+      "id": 16,
+      "number": 16,
+      "textEnglish": "From Sattva arises wisdom; from Rajas arises desire; from Tamas arises ignorance and delusion.",
+      "textHindi": "सत्त्व से ज्ञान उत्पन्न होता है; रजस से इच्छा; और तमस से अज्ञान तथा भ्रम।"
+    },
+    {
+      "id": 17,
+      "number": 17,
+      "textEnglish": "Those established in Sattva rise upward; those in Rajas remain in the middle; those in Tamas fall downward.",
+      "textHindi": "सत्त्व में स्थित लोग ऊपर उठते हैं; रजस वाले मध्य में रहते हैं; तमस वाले नीचे गिरते हैं।"
+    },
+    {
+      "id": 18,
+      "number": 18,
+      "textEnglish": "The wise see that only the gunas act, and they realize the Self as separate from them.",
+      "textHindi": "ज्ञानी देखते हैं कि केवल गुण ही कार्य करते हैं और आत्मा उनसे अलग है।"
+    },
+    {
+      "id": 19,
+      "number": 19,
+      "textEnglish": "When one understands that the Self is beyond the three gunas, he attains My state.",
+      "textHindi": "जब व्यक्ति समझ लेता है कि आत्मा गुणों से परे है, वह मेरी स्थिति को प्राप्त करता है।"
+    },
+    {
+      "id": 20,
+      "number": 20,
+      "textEnglish": "When the soul is no longer influenced by the gunas, it is freed from birth, death, old age, and sorrow.",
+      "textHindi": "जब आत्मा गुणों से प्रभावित नहीं रहती, तब वह जन्म, मृत्यु, जरा और दुख से मुक्त हो जाती है।"
+    },
+    {
+      "id": 21,
+      "number": 21,
+      "textEnglish": "Arjuna said: How does one recognize a person who has gone beyond the three gunas?",
+      "textHindi": "अर्जुन ने पूछा: वह व्यक्ति जो तीनों गुणों से ऊपर उठ चुका है, उसकी पहचान कैसे होती है?"
+    },
+    {
+      "id": 22,
+      "number": 22,
+      "textEnglish": "Krishna said: He does not hate illumination, activity, or dullness when they appear, nor desires them when they disappear.",
+      "textHindi": "श्रीकृष्ण ने कहा: वह न तो प्रकाश, न गतिविधि, न जड़ता के प्रकट होने पर द्वेष करता है और न उनके जाने पर उन्हें चाहता है।"
+    },
+    {
+      "id": 23,
+      "number": 23,
+      "textEnglish": "He remains steady and unchanged, knowing that only the gunas act.",
+      "textHindi": "वह स्थिर रहता है, यह जानकर कि केवल गुण ही कार्य करते हैं।"
+    },
+    {
+      "id": 24,
+      "number": 24,
+      "textEnglish": "He is equal in pleasure and pain, in clod, stone, and gold; in praise and blame.",
+      "textHindi": "वह सुख-दुःख, मिट्टी-पत्थर-सोना और निंदा-स्तुति में समान रहता है।"
+    },
+    {
+      "id": 25,
+      "number": 25,
+      "textEnglish": "He is calm, the same toward friend and enemy, and has given up all desire.",
+      "textHindi": "वह शांत रहता है, मित्र और शत्रु में समान भाव रखता है, और सभी इच्छाओं का त्याग कर चुका है।"
+    },
+    {
+      "id": 26,
+      "number": 26,
+      "textEnglish": "One who serves Me with unwavering devotion rises above the three gunas.",
+      "textHindi": "जो व्यक्ति अनन्य भक्ति से मेरी सेवा करता है, वह तीनों गुणों से ऊपर उठ जाता है।"
+    },
+    {
+      "id": 27,
+      "number": 27,
+      "textEnglish": "Such a devotee becomes fit to attain the eternal Brahman.",
+      "textHindi": "ऐसा भक्त परम ब्रह्म को प्राप्त करने योग्य बन जाता है।"
+    }
+  ]
+}
