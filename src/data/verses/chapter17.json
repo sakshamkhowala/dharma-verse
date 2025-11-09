@@ -1,0 +1,172 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "number": 1,
+      "textEnglish": "Arjuna said: What happens to those who do sacrifices with faith but without following the scriptures? Is their faith sattvic, rajasic, or tamasic?",
+      "textHindi": "अर्जुन ने कहा: जो श्रद्धा तो रखते हैं, पर शास्त्रों का पालन नहीं करते — उनके यज्ञ किस प्रकार के होते हैं? क्या उनकी श्रद्धा सात्त्विक, राजसिक या तामसिक होती है?"
+    },
+    {
+      "id": 2,
+      "number": 2,
+      "textEnglish": "Krishna said: The faith of each person is shaped by their nature. One's faith matches the qualities of sattva, rajas, or tamas within them.",
+      "textHindi": "श्रीकृष्ण ने कहा: हर व्यक्ति की श्रद्धा उसके स्वभाव के अनुसार होती है। उसकी श्रद्धा सत्त्व, रज, या तम गुणों के अनुरूप होती है।"
+    },
+    {
+      "id": 3,
+      "number": 3,
+      "textEnglish": "A person is what his faith is. Whatever his faith is, that indeed is what he becomes.",
+      "textHindi": "मनुष्य जैसा विश्वास रखता है, वैसा ही बन जाता है। उसकी श्रद्धा ही उसका स्वरूप है।"
+    },
+    {
+      "id": 4,
+      "number": 4,
+      "textEnglish": "Those of sattvic nature worship the gods. Those of rajasic nature worship powerful spirits. Those of tamasic nature worship ghosts and lower forces.",
+      "textHindi": "सात्त्विक लोग देवताओं की उपासना करते हैं। राजसिक लोग शक्तिशाली आत्माओं की पूजा करते हैं। तामसिक लोग भूत-प्रेत और निम्न शक्तियों की पूजा करते हैं।"
+    },
+    {
+      "id": 5,
+      "number": 5,
+      "textEnglish": "Those who perform harsh austerities not recommended by scripture do so out of arrogance and desire.",
+      "textHindi": "जो लोग शास्त्र-विहित न होने वाले कठोर तप करते हैं, वे अहंकार और इच्छा के कारण ऐसा करते हैं।"
+    },
+    {
+      "id": 6,
+      "number": 6,
+      "textEnglish": "They torture the body and the soul within. Know them to be of demonic nature.",
+      "textHindi": "वे अपने शरीर और आत्मा दोनों को कष्ट देते हैं। उन्हें आसुरी स्वभाव वाला समझना चाहिए।"
+    },
+    {
+      "id": 7,
+      "number": 7,
+      "textEnglish": "Even food is of three types — sattvic, rajasic, and tamasic — and so are sacrifices, austerities, and charity.",
+      "textHindi": "भोजन भी तीन प्रकार का होता है — सात्त्विक, राजसिक और तामसिक — और यज्ञ, तप तथा दान भी तीन प्रकार के होते हैं।"
+    },
+    {
+      "id": 8,
+      "number": 8,
+      "textEnglish": "Sattvic food increases life, purity, strength, health, pleasure, and serenity.",
+      "textHindi": "सात्त्विक भोजन आयु, पवित्रता, बल, स्वास्थ्य, सुख और शांति को बढ़ाता है।"
+    },
+    {
+      "id": 9,
+      "number": 9,
+      "textEnglish": "Rajasic food is too spicy, bitter, sour, salty, hot, and causes pain and restlessness.",
+      "textHindi": "राजसिक भोजन बहुत तीखा, खट्टा, नमकीन और गरम होता है; यह पीड़ा और बेचैनी उत्पन्न करता है।"
+    },
+    {
+      "id": 10,
+      "number": 10,
+      "textEnglish": "Tamasic food is stale, tasteless, rotten, leftover, and impure.",
+      "textHindi": "तामसिक भोजन बासी, स्वादहीन, सड़ा-गला, बचा हुआ और अपवित्र होता है।"
+    },
+    {
+      "id": 11,
+      "number": 11,
+      "textEnglish": "A sattvic sacrifice is done as duty, without desire for reward.",
+      "textHindi": "सात्त्विक यज्ञ कर्तव्य समझकर किया जाता है, फल की इच्छा से नहीं।"
+    },
+    {
+      "id": 12,
+      "number": 12,
+      "textEnglish": "A rajasic sacrifice is done for show or to gain results.",
+      "textHindi": "राजसिक यज्ञ दिखावे या फल प्राप्ति के लिए किया जाता है।"
+    },
+    {
+      "id": 13,
+      "number": 13,
+      "textEnglish": "A tamasic sacrifice is done without faith, without proper offerings, and without respect.",
+      "textHindi": "तामसिक यज्ञ बिना श्रद्धा, बिना उचित नियमों और बिना सम्मान के किया जाता है।"
+    },
+    {
+      "id": 14,
+      "number": 14,
+      "textEnglish": "Austerity of the body is respecting teachers, sages, purity, simplicity, and non-violence.",
+      "textHindi": "शरीर का तप शिक्षक, ऋषि, पवित्रता, सरलता और अहिंसा का सम्मान है।"
+    },
+    {
+      "id": 15,
+      "number": 15,
+      "textEnglish": "Austerity of speech is speaking truth kindly, gently, and beneficially.",
+      "textHindi": "वाणी का तप सत्य, मधुर, सौम्य और हितकारी बोलना है।"
+    },
+    {
+      "id": 16,
+      "number": 16,
+      "textEnglish": "Austerity of the mind is calmness, purity, silence, and self-control.",
+      "textHindi": "मन का तप शांति, पवित्रता, मौन और आत्मसंयम है।"
+    },
+    {
+      "id": 17,
+      "number": 17,
+      "textEnglish": "Austerity performed with devotion and without seeking reward is sattvic.",
+      "textHindi": "जो तप श्रद्धा से और फल की इच्छा बिना किया जाए, वह सात्त्विक है।"
+    },
+    {
+      "id": 18,
+      "number": 18,
+      "textEnglish": "Austerity performed to gain respect or recognition is rajasic.",
+      "textHindi": "जो तप सम्मान या प्रतिष्ठा पाने के लिए किया जाए, वह राजसिक है।"
+    },
+    {
+      "id": 19,
+      "number": 19,
+      "textEnglish": "Austerity performed out of ignorance, causing pain or harm, is tamasic.",
+      "textHindi": "जो तप अज्ञानवश, स्वयं को या दूसरों को कष्ट देकर किया जाए, वह तामसिक है।"
+    },
+    {
+      "id": 20,
+      "number": 20,
+      "textEnglish": "Charity given at the right place, time, and to a deserving person, without expectation, is sattvic.",
+      "textHindi": "सही स्थान, सही समय पर योग्य व्यक्ति को बिना फल की इच्छा के दिया गया दान सात्त्विक है।"
+    },
+    {
+      "id": 21,
+      "number": 21,
+      "textEnglish": "Charity given with expectation or unwillingness is rajasic.",
+      "textHindi": "जो दान फल की इच्छा से या अनिच्छा से किया जाए, वह राजसिक है।"
+    },
+    {
+      "id": 22,
+      "number": 22,
+      "textEnglish": "Charity given disrespectfully, to the wrong person, or at the wrong time is tamasic.",
+      "textHindi": "जो दान अपमानपूर्वक, अनुचित व्यक्ति को या गलत समय पर किया जाए, वह तामसिक है।"
+    },
+    {
+      "id": 23,
+      "number": 23,
+      "textEnglish": "The words: Om, Tat, and Sat refer to the Supreme Truth.",
+      "textHindi": "'ॐ', 'तत्' और 'सत्' ये तीन शब्द परम सत्य का संकेत करते हैं।"
+    },
+    {
+      "id": 24,
+      "number": 24,
+      "textEnglish": "Undertaking sacrifice, charity, and austerity begins with the word Om.",
+      "textHindi": "यज्ञ, दान और तप का आरंभ 'ॐ' उच्चारण से किया जाता है।"
+    },
+    {
+      "id": 25,
+      "number": 25,
+      "textEnglish": "The word Tat means that actions should be done without attachment to their results.",
+      "textHindi": "'तत्' शब्द का अर्थ है कि कर्म निष्काम भाव से किए जाएँ।"
+    },
+    {
+      "id": 26,
+      "number": 26,
+      "textEnglish": "The word Sat means truth, goodness, and sincerity.",
+      "textHindi": "'सत्' शब्द का अर्थ है सत्य, शुभता और सच्चाई।"
+    },
+    {
+      "id": 27,
+      "number": 27,
+      "textEnglish": "Actions performed with faith are called Sat.",
+      "textHindi": "जो कर्म श्रद्धा से किए जाते हैं, उन्हें 'सत्' कहा जाता है।"
+    },
+    {
+      "id": 28,
+      "number": 28,
+      "textEnglish": "Whatever is done without faith — whether sacrifice, charity, or austerity — is useless and has no value here or hereafter.",
+      "textHindi": "जो भी कार्य बिना श्रद्धा के किया जाए — चाहे यज्ञ हो, दान हो या तप — वह निरर्थक है और न इस जीवन में फल देता है, न अगले में।"
+    }
+  ]
+}
