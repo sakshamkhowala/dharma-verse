@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import Header from '@/components/Header';
 import HeroSection from '@/components/HeroSection';
+import Introduction from '@/components/Introduction';
 import ChapterList from '@/components/ChapterList';
 import ChapterView from '@/components/ChapterView';
 import BookmarkPanel from '@/components/BookmarkPanel';
@@ -40,6 +41,7 @@ const Index = () => {
             {view === 'home' ? (
               <>
                 <HeroSection />
+                <Introduction />
                 <ChapterList onChapterSelect={handleChapterSelect} />
               </>
             ) : (
