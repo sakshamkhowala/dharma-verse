@@ -14,7 +14,7 @@ const HeroSection = () => {
         <div className="absolute inset-0 bg-gradient-to-b from-background/60 via-background/40 to-background"></div>
         <div className="relative h-full flex items-center justify-center text-center px-4">
           <div className="max-w-3xl fade-in">
-            <div className="text-6xl md:text-7xl mb-6 animate-pulse">🕉️</div>
+            
             <h1 className="text-4xl md:text-6xl font-serif font-bold mb-4 bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent">
               {language === 'english' ? 'Bhagwat Gita' : 'श्रीमद्भगवद्गीता'}
             </h1>
