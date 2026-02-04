@@ -3,6 +3,7 @@ import Header from '@/components/Header';
 import HeroSection from '@/components/HeroSection';
 import Introduction from '@/components/Introduction';
 import ChapterList from '@/components/ChapterList';
+import PrivacyPolicy from '@/components/PrivacyPolicy';
 import ChapterView from '@/components/ChapterView';
 import BookmarkPanel from '@/components/BookmarkPanel';
 import { ThemeProvider } from '@/contexts/ThemeContext';
@@ -43,6 +44,7 @@ const Index = () => {
                 <HeroSection />
                 <Introduction />
                 <ChapterList onChapterSelect={handleChapterSelect} />
+                <PrivacyPolicy />
               </>
             ) : (
               selectedChapter && (
