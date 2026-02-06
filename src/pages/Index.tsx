@@ -5,6 +5,7 @@ import Introduction from '@/components/Introduction';
 import ChapterList from '@/components/ChapterList';
 import PrivacyPolicy from '@/components/PrivacyPolicy';
 import About from '@/components/About';
+import Contact from '@/components/Contact';
 import ChapterView from '@/components/ChapterView';
 import BookmarkPanel from '@/components/BookmarkPanel';
 import { ThemeProvider } from '@/contexts/ThemeContext';
@@ -46,6 +47,7 @@ const Index = () => {
                 <Introduction />
                 <ChapterList onChapterSelect={handleChapterSelect} />
                 <About />
+                <Contact />
                 <PrivacyPolicy />
               </>
             ) : (
