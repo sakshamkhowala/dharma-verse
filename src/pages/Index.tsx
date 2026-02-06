@@ -4,6 +4,7 @@ import HeroSection from '@/components/HeroSection';
 import Introduction from '@/components/Introduction';
 import ChapterList from '@/components/ChapterList';
 import PrivacyPolicy from '@/components/PrivacyPolicy';
+import About from '@/components/About';
 import ChapterView from '@/components/ChapterView';
 import BookmarkPanel from '@/components/BookmarkPanel';
 import { ThemeProvider } from '@/contexts/ThemeContext';
@@ -44,6 +45,7 @@ const Index = () => {
                 <HeroSection />
                 <Introduction />
                 <ChapterList onChapterSelect={handleChapterSelect} />
+                <About />
                 <PrivacyPolicy />
               </>
             ) : (
